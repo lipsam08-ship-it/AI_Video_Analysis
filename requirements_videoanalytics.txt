@@ -2,6 +2,9 @@ streamlit
 torch
 torchvision
 torchaudio
-opencv-python-headless
+opencv-python-headless==4.8.1.78
 pillow
 numpy
+ffmpeg
+libsm6
+libxext6
